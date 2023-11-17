@@ -9,7 +9,7 @@
       "https://digital.lib.utk.edu/assemble/manifest/heilman/270",
       "https://digital.lib.utk.edu/assemble/manifest/heilman/325"
     ],
-    "metadata": ["Subject", ["Date"]
+    "metadata": ["Subject", "Date"]
   },
   "dev": {
     "label": { "none": ["Heilman"] },
@@ -21,6 +21,6 @@
       "https://digital.lib.utk.edu/assemble/manifest/heilman/270",
       "https://digital.lib.utk.edu/assemble/manifest/heilman/325"
     ],
-    "metadata": ["Subject", ["Date"]
+    "metadata": ["Subject", "Date"]
   }
 }
